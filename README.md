@@ -1,6 +1,6 @@
-# OCR com DeepSeek-OCR
+# OCR dos adesivos com DeepSeek-OCR
 
-Este é o repositório para **Reconhecimento Óptico de Caracteres (OCR)** utilizando o modelo **DeepSeek-OCR**. O objetivo é realizar a leitura, extração e validação automática de texto a partir de imagens.
+Este é o repositório para **Reconhecimento Óptico de Caracteres (OCR)** utilizando o modelo **DeepSeek-OCR**. O objetivo é realizar a leitura, extração e validação automática de texto dos adesivos.
 
 ## Estrutura do Projeto
 
