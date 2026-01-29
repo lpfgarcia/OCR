@@ -1,8 +1,9 @@
-torch==2.9.0
-transformers==4.46.3
-tokenizers==0.20.3
-einops
-addict 
+addict
 easydict
-torchvision
+einops
 jupyter
+opencv-python
+torch==2.10.0
+tokenizers==0.20.3
+torchvision
+transformers==4.46.3
