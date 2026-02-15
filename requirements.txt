@@ -3,7 +3,7 @@ easydict
 einops
 jupyter
 opencv-python
-torch==2.10.0
 tokenizers==0.20.3
+torch==2.10.0
 torchvision
 transformers==4.46.3
