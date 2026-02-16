@@ -9,7 +9,7 @@ O projeto está organizado da seguinte forma:
 ```bash
     ├── ocr.ipynb # Notebook principal para execução e testes
     ├── requirements.txt # Dependências do projeto
-    ├── results.txt # Resultados gerados pelos experimentos
+    ├── results_*.txt # Resultados gerados pelos experimentos
     ├── .gitignore # Arquivos e pastas ignorados pelo Git
     └── README.md # Este arquivo
 ```
